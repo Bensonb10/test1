@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+}
+
+.container {
+    background-color: lightgoldenrodyellow;
+}
+
+.btn-custom {
+    color: red;
+    background-color: black;
+    border-color: red;
+}
